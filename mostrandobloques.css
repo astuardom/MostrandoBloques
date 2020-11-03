@@ -1,0 +1,32 @@
+div img{
+    display:inline-block;
+    width: 150px;
+    margin: 10px;
+    padding:40px;
+    border: black 5px solid;
+    background-color: #82b4ee;
+}
+div{
+     margin-left: 70px;
+     text-align: center;
+ }
+header{
+    text-align: center;
+}
+header img{
+    background-color: white;
+    display:inline-block;
+    width: 150px;
+    padding:10px;
+    text-align: center;  
+}
+h1{
+    display: inline-block;
+    font-size: 50px;
+}
+body{
+    background-color: #c5c2a1;
+}
+img:nth-child(even){
+    background-color:#f36870;
+}
